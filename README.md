@@ -1,1 +1,0 @@
-# Completed-individual-cafe-kiosk-logic
